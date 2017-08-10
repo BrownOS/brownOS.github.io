@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# ritlug.github.io
-RITlug's current website.
+# brownOS.github.io
+BrownOS's current website.
 
 ## Updating Meeting Times/Places
 Edit `_config.yml` and update the settings "ritlug-time", "ritlug-place", and
@@ -39,7 +38,3 @@ in the cloned repository. The site will be available on localhost:4000.
 
 See [the runbook](https://github.com/RITlug/runbook/blob/master/the-website.md)
 for more details.
-=======
-# BrownOS
-BrownOS website
->>>>>>> 51e4fcb175d3c8771db53a35cd7c69a5c21bbf16
