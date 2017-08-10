@@ -73,11 +73,9 @@ html, body, h1, h4, h5, h6, a, .mdl-button {
   font-size: 15px;
   color: black;
 }
-
 .mdl-layout.is-upgraded .mdl-layout__tab.is-active {
     color: black;
 }
-
 .mdl-demo .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
   /* Orange A200 https://material.io/guidelines/style/color.html#color-color-palette */
   background-color: #63c4a8;
