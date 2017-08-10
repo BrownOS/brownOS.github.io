@@ -20,9 +20,14 @@ html, body, h1, h4, h5, h6, a, .mdl-button {
   padding: 0;
 }
 
+a {
+  color: #63c4a8;
+}
+
 #logo {
   position: absolute;
   left: 16px;
+  top: 5px;
 }
 
 .mdl-color--primary-dark {
@@ -55,6 +60,7 @@ html, body, h1, h4, h5, h6, a, .mdl-button {
 .mdl-demo .mdl-layout__tab-bar {
   padding: 0;
   padding-left: 16px;
+  padding-right: 16px;
   box-sizing: border-box;
   height: 100%;
   width: 100%;
@@ -120,7 +126,7 @@ html, body, h1, h4, h5, h6, a, .mdl-button {
   color: inherit;
 }
 .mdl-demo .mdl-card__actions a {
-  color: #00BCD4;
+  color: #a8d270;
   margin: 0;
 }
 .mdl-demo .mdl-card__actions a:hover,

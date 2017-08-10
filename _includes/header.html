@@ -1,6 +1,6 @@
       <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <img id="logo" style="width: 243px; height: 80px;" src="/img/brownos-logo.png"/>
+          <a href="/"><img id="logo" style="width: 243px; height: 80px;" src="/img/brownos-logo.png"/></a>
           {% for tab in site.data.tabs %}
             {% if page.url == tab.link %}
               <a href="{{ tab.link }}" class="mdl-layout__tab is-active">{{ tab.name }}</a>
