@@ -14,14 +14,19 @@
  * limitations under the License.
  */
 
-html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+html, body, h1, h4, h5, h6, a, .mdl-button {
+  font-family: 'Rubik', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
 }
 
 #logo {
+  position: absolute;
+  left: 16px;
+}
 
+.mdl-color--primary-dark {
+    background-color: white!important;
 }
 
 .mdl-demo .mdl-layout__header-row {
@@ -38,6 +43,7 @@ html, body {
 }
 .mdl-demo .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
   display: none;
+  font-family: 'Rubik', 'Helvetica', sans-serif;
 }
 .mdl-demo .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
 .mdl-demo .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
@@ -58,14 +64,23 @@ html, body {
   flex-direction: row;
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
+  -webkit-align-items: center;
+  align-items: center;
 }
 .mdl-demo .mdl-layout__tab-bar .mdl-layout__tab {
-  height: 64px;
-  line-height: 64px;
+  height: 60px;
+  line-height: 68px;
+  font-size: 15px;
+  color: black;
 }
+
+.mdl-layout.is-upgraded .mdl-layout__tab.is-active {
+    color: black;
+}
+
 .mdl-demo .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
   /* Orange A200 https://material.io/guidelines/style/color.html#color-color-palette */
-  background-color: #ffab40;
+  background-color: #63c4a8;
   height: 4px;
 }
 .mdl-demo main > .mdl-layout__tab-panel {
@@ -229,7 +244,7 @@ html, body {
   margin-bottom: 24px;
 }
 .mdl-demo .mdl-layout__tab-panel:not(#overview) {
-  background-color: white;
+  background-color: #eaeaea;
 }
 .mdl-demo #features section {
   margin-bottom: 72px;
