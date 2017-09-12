@@ -1,13 +1,13 @@
 # Site settings
-title: RIT Linux Users Group
-title-abbrev: RITlug
+title: Brown Open Source Club
+title-abbrev: BrownOS
 
-email: ritlug@rit.edu
+email: brownos@brown.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Official site of the RIT Linux Users Group (RITlug). Find all
+  Official site of the Brown Open Source Club (BrownOS). Find all
   our talks and announcements here.
 
-url: 'http://ritlug.com'
+url: 'https://brownos.github.io/'
 # Build settings
 markdown: kramdown
 
@@ -16,5 +16,5 @@ markdown: kramdown
 # is recommended that you follow the format already here when
 # updating them.
 ritlug-time: 4:00PM - 6:00PM
-ritlug-place: GOL/70-2620
+ritlug-place: CIT???
 ritlug-day: Friday
