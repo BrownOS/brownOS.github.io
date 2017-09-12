@@ -3,29 +3,19 @@ layout: page
 title: Get Involved
 ---
 
-Meetings are open to anyone interested, new members and old. RITlug meets on every {{ site.ritlug-day }}, {{ site.ritlug-time }} in {{ site.ritlug-place }}. If you can't make the whole time, that's fine! Meetings typically have a presentation first, then we open the floor to discussion and technical help. Interested? Just show up!
+Meetings are open to anyone interested, new members and old. BrownOS meets on every {{ site.ritlug-day }}, {{ site.ritlug-time }} in {{ site.ritlug-place }}. If you can't make the whole time, that's fine! Meetings typically have a presentation first, then we open the floor to discussion and technical help. Interested? Just show up!
 
-Looking for more information? Email us at ritlug@rit.edu.
+Looking for more information? Email us at brownos@brown.edu.
 
 ##### Stay Updated
-* [The Link @ RIT](https://thelink.rit.edu/organization/Linux) (Join this one if you have an RIT account. You'll get the other feeds by email for free!)
-* [Announcement feed](/feeds/latest.xml) (RSS feed for RITlug announcements)
-* [Public announcement mailing list](https://groups.google.com/d/forum/ritlug-announce) (Public mailing list for RITlug announcements)
-* [RITlug talks feed](/feeds/talks.xml) (RSS feed for RITlug talks)
+* [BrownOS Email](brownos@brown.edu) (Feel free to say hi!)
 
 ##### Discussion
 * Come to meetings!
-* [Telegram](https://telegram.me/ritlugclub)
-* [IRC Channel](ircs://irc.freenode.net/ritlug) ([webchat](https://webchat.freenode.net/?channels=ritlug))
-* [Facebook page](https://facebook.com/groups/RITlug) (restricted to past and present RIT students and staff only, sorry!)
-* [Twitter](https://twitter.com/RITlug)
-* [Reddit](https://www.reddit.com/r/RITlug)
 
 ##### Open Source Code and Governance
-* [Github Organization](https://github.com/RITlug) (club governing documents, website, and projects)
+* [Github Organization](https://github.com/BrownOS)
 
 ##### Events
 * Weekly Meetings on {{ site.ritlug-day }}s, {{ site.ritlug-time }}
-* RIT Club Fairs
-* Occasional [FOSS@MAGIC](http://foss.rit.edu) Events
-* [ImagineRIT](https://rit.edu/imagine)
+* BrownOS Talks
