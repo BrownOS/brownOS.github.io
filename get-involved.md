@@ -9,13 +9,10 @@ Looking for more information? Email us at brownos@brown.edu.
 
 ##### Stay Updated
 * [BrownOS Email](brownos@brown.edu) (Feel free to say hi!)
+* [BrownOS Facebook](https://www.facebook.com/BrownOpenSource/)
 
 ##### Discussion
 * Come to meetings!
 
-##### Open Source Code and Governance
-* [Github Organization](https://github.com/BrownOS)
-
-##### Events
+##### Meetings
 * Weekly Meetings on {{ site.brownos-day }}s, {{ site.brownos-time }}
-* BrownOS Talks
