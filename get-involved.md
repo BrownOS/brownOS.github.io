@@ -3,7 +3,7 @@ layout: page
 title: Get Involved
 ---
 
-Meetings are open to anyone interested, new members and old. BrownOS meets on every {{ site.ritlug-day }}, {{ site.ritlug-time }} in {{ site.ritlug-place }}. If you can't make the whole time, that's fine! Meetings typically have a presentation first, then we open the floor to discussion and technical help. Interested? Just show up!
+Meetings are open to anyone interested, new members and old. BrownOS meets on every {{ site.brownos-day }}, {{ site.brownos-time }} in {{ site.brownos-place }}. If you can't make the whole time, that's fine! Meetings typically have a presentation first, then we open the floor to discussion and technical help. Interested? Just show up!
 
 Looking for more information? Email us at brownos@brown.edu.
 
@@ -17,5 +17,5 @@ Looking for more information? Email us at brownos@brown.edu.
 * [Github Organization](https://github.com/BrownOS)
 
 ##### Events
-* Weekly Meetings on {{ site.ritlug-day }}s, {{ site.ritlug-time }}
+* Weekly Meetings on {{ site.brownos-day }}s, {{ site.brownos-time }}
 * BrownOS Talks

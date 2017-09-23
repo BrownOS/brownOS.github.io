@@ -5,7 +5,7 @@ slug: about
 date: 2014-08-21 14:06
 layout: page
 ---
-*BrownOS hosts weekly meetings. Meetings are {{ site.ritlug-day }}s {{ site.ritlug-time }} in TBD.*
+*BrownOS hosts weekly meetings. Meetings are {{ site.brownos-day }}s {{ site.brownos-time }} in TBD.*
 
 The BrownOS is an open-source community club for new and experienced users of [Github](github.com). Although our main topic of focus is open-source community, we often discuss other topics in [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 

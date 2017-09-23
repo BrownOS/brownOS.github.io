@@ -2,8 +2,8 @@
 BrownOS's current website.
 
 ## Updating Meeting Times/Places
-Edit `_config.yml` and update the settings "ritlug-time", "ritlug-place", and
-"ritlug-day". These are used (and should be used) everywhere on the website
+Edit `_config.yml` and update the settings "brownos-time", "brownos-place", and
+"brownos-day". These are used (and should be used) everywhere on the website
 the meeting time and place are referenced so that they can be updated in
 one place.
 
