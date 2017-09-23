@@ -14,9 +14,7 @@ We started the club because we noticed that while most CS courses teach valuable
 
 The first kick-off event is happening this weekend on Sept. 24th, 2017 in CIT368 from 1:30pm to 4:00pm. We invited two representatives from Mozilla who together will be introducing our club, give you a brief introduction of what open source is and why you should work open source, and wrap up by helping you work through an open source project WebVR Beautiful World.
 
-If you're thinking of coming, please <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fforms%2F270Fs6mAOiIPZLhG2&h=ATMN03jg5aCHOso7V3I8FSNIO-Ft-NPMqHpHiLqyOKJqWzz9pvbIECLR439txCS_LYFThy4OrFoBCJ1r1BfyijMUa1jt9dYFJqTXOrFi6uxASbqqm-Vd3jOs6wMn_ZkcsIlnhbZbrgXbXbQ0YNruAOTm-K6X1IOZaTzBlsHIU2LqAse0MnooZX0">RSVP here</a>.
-
-We hope you have a **blast** with us!
+If you're thinking of coming, please <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fforms%2F270Fs6mAOiIPZLhG2&h=ATMN03jg5aCHOso7V3I8FSNIO-Ft-NPMqHpHiLqyOKJqWzz9pvbIECLR439txCS_LYFThy4OrFoBCJ1r1BfyijMUa1jt9dYFJqTXOrFi6uxASbqqm-Vd3jOs6wMn_ZkcsIlnhbZbrgXbXbQ0YNruAOTm-K6X1IOZaTzBlsHIU2LqAse0MnooZX0">RSVP here</a> and don't forget to bring your own laptop with Git installed. You can find <a href="https://gist.github.com/derhuerst/1b15ff4652a867391f03">installation process here</a> for Mac, Windows, and Linux!
 
 
 #### tl;dr 
@@ -29,11 +27,9 @@ We hope you have a **blast** with us!
 
 The best way to keep in touch with the club is our email brownos@brown.edu. We also have a github page, as listed below.
 
-* Website: https://brownos.github.io/
-* Github: https://github.com/BrownOS
-* Facebook: https://www.facebook.com/BrownOpenSource/
-
-If you join, make sure to say hello and let us know you're here!
+* Website: <a href="https://brownos.github.io/">https://brownos.github.io/</a>
+* Github: <a href="https://github.com/BrownOS">https://github.com/BrownOS</a>
+* Facebook: <a href="https://www.facebook.com/BrownOpenSource/">https://www.facebook.com/BrownOpenSource/</a>
 
 Looking forward to working with you all,
 
