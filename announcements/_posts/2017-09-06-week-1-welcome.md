@@ -25,7 +25,7 @@ If you're thinking of coming, please <a href="https://l.facebook.com/l.php?u=htt
 
 #### Don't forget! 
 
-The best way to keep in touch with the club is our email brownos@brown.edu. We also have a github page, as listed below.
+The best way to keep in touch with the club is either through our email brownos@brown.edu or our Facebook page. We also have a github page, as listed below.
 
 * Website: <a href="https://brownos.github.io/">https://brownos.github.io/</a>
 * Github: <a href="https://github.com/BrownOS">https://github.com/BrownOS</a>
