@@ -3,7 +3,7 @@ title: Guest Speaker from Mozilla
 author: Linda Park
 layout: post
 slides: /talks/ 2017-w10-spring-ansible.pdf
-date: 2017-09-06
+date: 2017-09-24
 ---
 
-We have a special guest from Mozilla visiting soon! Stay tuned.
+We have an Open Source 101 workshop coming soon. Can't make it? Don't worry! We will post the presentation here after the event. Stay tuned.
