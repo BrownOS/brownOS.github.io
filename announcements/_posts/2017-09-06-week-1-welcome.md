@@ -30,5 +30,3 @@ The best way to keep in touch with the club is either through our email brownos@
 * Website: <a href="https://brownos.github.io/">https://brownos.github.io/</a>
 * Github: <a href="https://github.com/BrownOS">https://github.com/BrownOS</a>
 * Facebook: <a href="https://www.facebook.com/BrownOpenSource/">https://www.facebook.com/BrownOpenSource/</a>
-
-Looking forward to working with you all!
