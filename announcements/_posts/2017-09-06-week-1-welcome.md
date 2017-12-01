@@ -1,5 +1,5 @@
 ---
-author: Charlene and Linda
+author: 
 title: "Week 1 - Welcome to BrownOS!"
 layout: post
 ---
