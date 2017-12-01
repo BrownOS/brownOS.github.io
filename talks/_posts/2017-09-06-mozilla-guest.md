@@ -1,6 +1,6 @@
 ---
 title: Open Source 101 with Mozilla
-author: Linda Park
+author: 
 layout: post
 slides: /talks/ 2017-w10-spring-ansible.pdf
 date: 2017-09-24
